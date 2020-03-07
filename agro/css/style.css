@@ -564,7 +564,7 @@ input[type="radio"].visually-hidden {
     width: 57px;
     height: 49px;
     margin-left: -25px;
-    background-image: url(../../img/ser-4.svg); }
+    background-image: url(../img/ser-4.svg); }
   .services-menu__item--cupcake::before {
     width: 53px;
     height: 57px;
