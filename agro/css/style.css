@@ -437,7 +437,7 @@ input[type="radio"].visually-hidden {
 .slogan__container {
   display: flex;
   width: 100%;
-  background-image: url(../../img/slogan.png);
+  background-image: url(../img/slogan.png);
   background-repeat: no-repeat; }
 
 .slogan__text {
