@@ -549,17 +549,17 @@ input[type="radio"].visually-hidden {
     width: 51px;
     height: 51px;
     margin-left: -21px;
-    background-image: url(../../img/ser-1.svg); }
+    background-image: url(../img/ser-1.svg); }
   .services-menu__item--tasty::before {
     width: 52px;
     height: 54px;
     margin-left: -22px;
-    background-image: url(../../img/ser-2.svg); }
+    background-image: url(../img/ser-2.svg); }
   .services-menu__item--pizza::before {
     width: 59px;
     height: 53px;
     margin-left: -22px;
-    background-image: url(../../img/ser-3.svg); }
+    background-image: url(../img/ser-3.svg); }
   .services-menu__item--burgers::before {
     width: 57px;
     height: 49px;
@@ -569,12 +569,12 @@ input[type="radio"].visually-hidden {
     width: 53px;
     height: 57px;
     margin-left: -27px;
-    background-image: url(../../img/ser-5.svg); }
+    background-image: url(../img/ser-5.svg); }
   .services-menu__item--veg::before {
     width: 59px;
     height: 56px;
     margin-left: -30px;
-    background-image: url(../../img/ser-6.svg); }
+    background-image: url(../img/ser-6.svg); }
 
 .services-menu__title {
   font-size: 1.14rem;
