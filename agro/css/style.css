@@ -180,7 +180,7 @@ input[type="radio"].visually-hidden {
       left: 12px;
       width: 30px;
       height: 38px;
-      background-image: url(../../img/point.svg);
+      background-image: url(../img/point.svg);
       background-repeat: no-repeat; }
   .page-header__title {
     width: 100%;
@@ -217,7 +217,7 @@ input[type="radio"].visually-hidden {
     width: 2.5rem;
     height: 2.5rem; }
   .navbar .navbar-toggler-icon {
-    background-image: url(../../img/menu.svg); }
+    background-image: url(../img/menu.svg); }
   .page-header__btn {
     display: none; }
   .page-header__title {
@@ -468,14 +468,14 @@ input[type="radio"].visually-hidden {
 
 @media (max-width: 992px) {
   .slogan__container {
-    background-image: url(../../img/slogan-tablet.png); }
+    background-image: url(../img/slogan-tablet.png); }
   .slogan__text {
     font-size: 5rem;
     line-height: 5rem; } }
 
 @media (max-width: 768px) {
   .slogan__container {
-    background-image: url(../../img/slogan-mobile.png);
+    background-image: url(../img/slogan-mobile.png);
     background-position: top center; }
   .slogan__text {
     margin-right: auto;
@@ -490,7 +490,7 @@ input[type="radio"].visually-hidden {
     margin-left: 3%;
     margin-right: 3%; }
   .slogan__container {
-    background-image: url(../../img/slogan-min.png); }
+    background-image: url(../img/slogan-min.png); }
   .slogan__text {
     margin-left: 0;
     font-size: 2.5rem;
