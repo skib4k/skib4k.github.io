@@ -44,49 +44,49 @@ input[type="radio"].visually-hidden {
   font-weight: normal;
   font-family: "Open Sans";
   font-style: normal;
-  src: url("../../fonts/openSans/opensans.woff2") format("woff2"), url("../../fonts/openSans/opensans.woff") format("woff"); }
+  src: url("../fonts/openSans/opensans.woff2") format("woff2"), url("../fonts/openSans/opensans.woff") format("woff"); }
 
 @font-face {
   font-weight: 100;
   font-family: "Open Sans";
   font-style: normal;
-  src: url("../../fonts/openSans/opensanslight.woff2") format("woff2"), url("../../fonts/openSans/opensanslight.woff") format("woff"); }
+  src: url("../fonts/openSans/opensanslight.woff2") format("woff2"), url("../fonts/openSans/opensanslight.woff") format("woff"); }
 
 @font-face {
   font-weight: 100;
   font-family: "Raleway";
   font-style: normal;
-  src: url("../../fonts/raleway/ralewaythin.woff2") format("woff2"), url("../../fonts/raleway/ralewaythin.woff") format("woff"); }
+  src: url("../fonts/raleway/ralewaythin.woff2") format("woff2"), url("../fonts/raleway/ralewaythin.woff") format("woff"); }
 
 @font-face {
   font-weight: normal;
   font-family: "Raleway";
   font-style: normal;
-  src: url("../../fonts/raleway/ralewayregular.woff2") format("woff2"), url("../../fonts/raleway/ralewayregular.woff") format("woff"); }
+  src: url("../fonts/raleway/ralewayregular.woff2") format("woff2"), url("../fonts/raleway/ralewayregular.woff") format("woff"); }
 
 @font-face {
   font-weight: bold;
   font-family: "Raleway";
   font-style: normal;
-  src: url("../../fonts/raleway/ralewaybold.woff2") format("woff2"), url("../../fonts/raleway/ralewaybold.woff") format("woff"); }
+  src: url("../fonts/raleway/ralewaybold.woff2") format("woff2"), url("../fonts/raleway/ralewaybold.woff") format("woff"); }
 
 @font-face {
   font-weight: 900;
   font-family: "Raleway";
   font-style: normal;
-  src: url("../../fonts/raleway/ralewayblack.woff2") format("woff2"), url("../../fonts/raleway/ralewayblack.woff") format("woff"); }
+  src: url("../fonts/raleway/ralewayblack.woff2") format("woff2"), url("../fonts/raleway/ralewayblack.woff") format("woff"); }
 
 @font-face {
   font-weight: 800;
   font-family: "Gillroy";
   font-style: normal;
-  src: url("../../fonts/gillroy/Gilroyextrabold.woff2") format("woff2"), url("../../fonts/gillroy/Gilroyextrabold.woff") format("woff"); }
+  src: url("../fonts/gillroy/Gilroyextrabold.woff2") format("woff2"), url("../fonts/gillroy/Gilroyextrabold.woff") format("woff"); }
 
 @font-face {
   font-weight: normal;
   font-family: "Storytella";
   font-style: normal;
-  src: url("../../fonts/storytella/Storytella.woff") format("woff"); }
+  src: url("../fonts/storytella/Storytella.woff") format("woff"); }
 
 .page-header {
   position: relative; }
@@ -602,7 +602,7 @@ input[type="radio"].visually-hidden {
 
 .perfect-slogan {
   min-height: 693px;
-  background-image: url(../../img/perfect.jpg);
+  background-image: url(../img/perfect.jpg);
   background-repeat: no-repeat;
   background-position: top center; }
 
@@ -748,7 +748,7 @@ input[type="radio"].visually-hidden {
 
 .cakes-banner {
   background-color: #fbfbfb;
-  background-image: url(../../img/cakes.jpg);
+  background-image: url(../img/cakes.jpg);
   background-repeat: no-repeat;
   background-position: top center; }
 
@@ -944,7 +944,7 @@ input[type="radio"].visually-hidden {
 
 .people {
   background-color: #211f20;
-  background-image: url(../../img/people.jpg);
+  background-image: url(../img/people.jpg);
   background-repeat: no-repeat;
   background-position: top center; }
 
@@ -998,7 +998,7 @@ input[type="radio"].visually-hidden {
     left: 0;
     width: 42px;
     height: 33px;
-    background-image: url(../../img/quotes.svg);
+    background-image: url(../img/quotes.svg);
     background-repeat: no-repeat; }
 
 .people__slides {
@@ -1488,9 +1488,9 @@ input[type="radio"].visually-hidden {
       left: 0;
       width: 23px;
       height: 16px;
-      background-image: url(../../img/tw.svg); }
+      background-image: url(../img/tw.svg); }
     .sup-menu__icon--twitter:hover::before {
-      background-image: url(../../img/tw-hover.svg); }
+      background-image: url(../img/tw-hover.svg); }
   .sup-menu__icon--facebook {
     width: 9px;
     height: 18px;
@@ -1500,9 +1500,9 @@ input[type="radio"].visually-hidden {
       left: 0;
       width: 8px;
       height: 17px;
-      background-image: url(../../img/fb.svg); }
+      background-image: url(../img/fb.svg); }
     .sup-menu__icon--facebook:hover::before {
-      background-image: url(../../img/fb-hover.svg); }
+      background-image: url(../img/fb-hover.svg); }
   .sup-menu__icon--in {
     width: 15px;
     height: 18px; }
@@ -1511,9 +1511,9 @@ input[type="radio"].visually-hidden {
       left: 0;
       width: 17px;
       height: 17px;
-      background-image: url(../../img/in.svg); }
+      background-image: url(../img/in.svg); }
     .sup-menu__icon--in:hover::before {
-      background-image: url(../../img/in-hover.svg); }
+      background-image: url(../img/in-hover.svg); }
 
 .page-footer__copyright {
   margin-top: 35px; }
