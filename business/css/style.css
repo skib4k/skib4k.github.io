@@ -91,7 +91,7 @@ input[type="radio"].visually-hidden {
     left: -3px;
     width: 36px;
     height: 20px;
-    background-image: url(../../img/menu.svg) !important;
+    background-image: url(../img/menu.svg) !important;
     background-repeat: no-repeat; }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
@@ -166,21 +166,21 @@ input[type="radio"].visually-hidden {
     width: 13px;
     height: 15px;
     margin-top: -8px;
-    background-image: url(../../img/name-icon.png); }
+    background-image: url(../img/name-icon.png); }
   .banner__icon--email::before {
     top: 50%;
     left: 15px;
     width: 16px;
     height: 13px;
     margin-top: -5px;
-    background-image: url(../../img/email-icon.png); }
+    background-image: url(../img/email-icon.png); }
   .banner__icon--number::before {
     top: 50%;
     left: 15px;
     width: 13px;
     height: 14px;
     margin-top: -7px;
-    background-image: url(../../img/phone-icon.png); }
+    background-image: url(../img/phone-icon.png); }
 
 .banner__btn {
   width: 12.5rem;
@@ -288,37 +288,37 @@ input[type="radio"].visually-hidden {
     left: 0;
     width: 45px;
     height: 46px;
-    background-image: url(../../img/time.png); }
+    background-image: url(../img/time.png); }
   .advantages__item--design::before {
     top: 0;
     left: 0;
     width: 47px;
     height: 48px;
-    background-image: url(../../img/design.png); }
+    background-image: url(../img/design.png); }
   .advantages__item--form::before {
     top: 0;
     left: 0;
     width: 62px;
     height: 44px;
-    background-image: url(../../img/working-form.png); }
+    background-image: url(../img/working-form.png); }
   .advantages__item--retina::before {
     top: 0;
     left: 0;
     width: 50px;
     height: 51px;
-    background-image: url(../../img/retina.png); }
+    background-image: url(../img/retina.png); }
   .advantages__item--code::before {
     top: 0;
     left: 0;
     width: 47px;
     height: 47px;
-    background-image: url(../../img/code.png); }
+    background-image: url(../img/code.png); }
   .advantages__item--landing::before {
     top: 0;
     left: 15px;
     width: 31px;
     height: 55px;
-    background-image: url(../../img/landing-page.png); }
+    background-image: url(../img/landing-page.png); }
 
 .advantages__title {
   margin: 0;
@@ -379,7 +379,7 @@ input[type="radio"].visually-hidden {
   padding-right: 0; }
 
 .abount-us__image {
-  background-image: url(../../img/abount-image.jpg);
+  background-image: url(../img/abount-image.jpg);
   background-size: cover;
   background-position: top center; }
 
@@ -432,7 +432,7 @@ input[type="radio"].visually-hidden {
 
 @media (max-width: 768px) {
   .abount-us {
-    background-image: url(../../img/abount-adaptive.jpg);
+    background-image: url(../img/abount-adaptive.jpg);
     background-size: cover;
     background-position: top center;
     background-color: transparent; }
@@ -674,19 +674,19 @@ input[type="radio"].visually-hidden {
     left: 230px;
     width: 128px;
     height: 32px;
-    background-image: url(../../img/arrow-top.png); }
+    background-image: url(../img/arrow-top.png); }
   .steps__item--step-2::after {
     top: 60px;
     left: 220px;
     width: 129px;
     height: 33px;
-    background-image: url(../../img/arrow-bottom.png); }
+    background-image: url(../img/arrow-bottom.png); }
   .steps__item--step-3::after {
     top: -30px;
     left: 230px;
     width: 128px;
     height: 32px;
-    background-image: url(../../img/arrow-top.png); }
+    background-image: url(../img/arrow-top.png); }
 
 .steps__title {
   margin: 0;
@@ -928,14 +928,14 @@ input[type="radio"].visually-hidden {
     width: 13px;
     height: 15px;
     margin-top: -8px;
-    background-image: url(../../img/name-icon.png); }
+    background-image: url(../img/name-icon.png); }
   .news__icon--email::before {
     top: 50%;
     left: 12px;
     width: 16px;
     height: 13px;
     margin-top: -7px;
-    background-image: url(../../img/email-icon.png); }
+    background-image: url(../img/email-icon.png); }
 
 .news__btn {
   padding-top: 0.7rem;
@@ -957,7 +957,7 @@ input[type="radio"].visually-hidden {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(../../img/map.png);
+  background-image: url(../img/map.png);
   background-repeat: no-repeat;
   background-position: top center;
   border-bottom: 1px solid #e3e7ec; }
@@ -1075,7 +1075,7 @@ input[type="radio"].visually-hidden {
     left: -20px;
     width: 16px;
     height: 17px;
-    background-image: url(../../img/number.png);
+    background-image: url(../img/number.png);
     background-repeat: no-repeat; }
 
 .page-footer__social {
@@ -1130,7 +1130,7 @@ input[type="radio"].visually-hidden {
       left: -15px;
       width: 11px;
       height: 12px;
-      background-image: url(../../img/number-media.png); }
+      background-image: url(../img/number-media.png); }
   .page-footer__social {
     order: 2;
     margin: 0;
