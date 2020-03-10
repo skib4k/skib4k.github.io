@@ -1194,7 +1194,6 @@ input[type="radio"].visually-hidden {
   .copyright {
     width: 190px; } }
 
-@media (min-width: 768px) {
 * {
   box-sizing: border-box; }
 
