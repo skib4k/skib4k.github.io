@@ -290,10 +290,6 @@ input[type="radio"].visually-hidden {
   background-image: url(../img/hero-mobile.jpg);
   background-repeat: no-repeat; }
 
-.main-header__wrapper {
-  background-color: #f9f9f9;
-}
-
 .main-header__title {
   font-size: 27px;
   line-height: 30px;
